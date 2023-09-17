@@ -25,7 +25,18 @@ re - typescript support react
 6. Install TypeScript Globally:
   npm install -g typescript
 
+EXTENSIONS
 
+1. Rest Client - Huachao Mao
+2. Tabstop Whitespace Converter - Johnny Wong
+3. Prettier - Code Fomratter - Prettier
+4. JavaSscript Debugger (Nightly) - Microsoft
+5. 
+
+LIBRARIES
+
+**PUG 09/17/2023
+npm install bootstrap@latest --save
 
 GIT - G1thUUb@!!M3
 ---
