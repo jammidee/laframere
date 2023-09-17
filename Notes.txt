@@ -1,0 +1,27 @@
+Created by Jammi Dee
+Date: 09/17/2023
+
+La Kubo re
+La - lalula
+kubo - frame
+re - typescript support react
+
+1. npm create vite@latest
+   Project Name: lakubore / React / TypeScript
+2. cd lakubore
+3. npm install
+4. npm run dev
+5. Edit vite.config.ts
+   import { defineConfig } from 'vite';
+   import react from '@vitejs/plugin-react';
+
+   export default defineConfig({
+   plugins: [react()],
+   server: {
+      port: 3000, // Specify the desired port number
+   },
+   });
+
+6. Install TypeScript Globally:
+  npm install -g typescript
+
