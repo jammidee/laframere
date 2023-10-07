@@ -29,9 +29,11 @@ EXTENSIONS
 
 1. Rest Client - Huachao Mao
 2. Tabstop Whitespace Converter - Johnny Wong
-3. Prettier - Code Fomratter - Prettier
-4. JavaSscript Debugger (Nightly) - Microsoft
-5. 
+3. Prettier - Code Formatter - Prettier
+4. JavaScript Debugger (Nightly) - Microsoft
+5. MySQL - MySQL Management Tool - Jun Han
+6. Material Icon Theme - Philipp Kief
+7. dotEnv - MikeStead
 
 LIBRARIES
 
